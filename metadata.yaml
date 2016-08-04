@@ -1,0 +1,33 @@
+_repo: Volpone--Or-The-Fox_4039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Johnson, Ben
+    - Jonson, Benjamin
+    - Ionson, Ben
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, English'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+- !lcsh 'English drama (Comedy)'
+- !lcsh 'Extortion -- Drama'
+- !lcsh 'Inheritance and succession -- Drama'
+- GITenberg
+title: Volpone; Or, The Fox
+url: http://www.gutenberg.org/ebooks/4039
